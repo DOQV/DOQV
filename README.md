@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/doquocviet.sept3rd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="doquocviet.sept3rd" height="30" width="40" /></a>
-<a href="https://twitter.com/doviet_sept3rd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="doviet_sept3rd" height="30" width="40" /></a>
+<a href="https://twitter.com/doviet_sept3rd" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/thumbnails/042/148/611/small_2x/new-twitter-x-logo-twitter-icon-x-social-media-icon-free-png.png" alt="doviet_sept3rd" height="40" width="40" /></a>
 <a href="https://linkedin.com/in/doquocviet-sept3rd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="doquocviet-sept3rd" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/17165857" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17165857" height="30" width="40" /></a>
 <a href="https://fb.com/doquocviet.sept3rd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="doquocviet.sept3rd" height="30" width="40" /></a>
