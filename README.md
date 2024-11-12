@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://linkedin.com/in/doquocviet-sept3rd" target="blank"><img src="https://img.shields.io/twitter/follow/doquocviet-sept3rd?logo=twitter&style=for-the-badge" alt="doviet_sept3rd" /></a></p>
 
-- 🔭 I currently work for **ELCA Information Technology (Vietnam) Limited**
+- 🔭 Currently, I work for **ELCA Information Technology (Vietnam) Limited**
 
-- 🧑‍🏫 I’m currently learning **Microservice and Cloud**
+- 🧑‍🏫 I’m learning **Microservice and Cloud**
 
 - 💬 Ask me about **Java, JavaScript, Spring Framework, and Angular Framework**
 
